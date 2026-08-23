@@ -1,50 +1,131 @@
-# Hi, I'm Varun 👋
+<div align="center">
 
-Full-stack and AI developer building secure, real-time systems — from credential verification with cryptographic signatures to AI-powered matching engines and voice agents.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:34D399&height=220&section=header&text=Varun%20Boga&fontSize=60&fontColor=F8FAFC&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Developer&descAlignY=58&descSize=22&descColor=94A3B8&animation=fadeIn" width="100%"/>
+
+<a href="https://portfolio-xi-black-66.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=34D399" /></a>
+<a href="https://www.linkedin.com/in/varun-boga/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:varunboga2005@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=34D399" /></a>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=34D399&center=true&vCenter=true&width=650&lines=Building+secure%2C+real-time+systems;FastAPI+%C2%B7+React+%C2%B7+Python+%C2%B7+GenAI;Ex-Infosys+Springboard+%7C+Ex-ZenV+Quantum" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+## 🧭 About
 
 🎓 B.Tech in Information Technology, CMR Technical Campus (2023–2027)
 📍 Hyderabad, India
-📫 varunboga2005@gmail.com
-🔗 [Portfolio](https://portfolio-xi-black-66.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/varun-boga/)
+📫 **varunboga2005@gmail.com**
 
----
+I build systems that solve real trust and coordination problems — certificate-verification services secured with cryptographic signatures, AI-matching engines, and voice agents that conduct live interviews.
 
-### 🔧 What I work with
+<br/>
 
-**Languages:** Python · Java · C · SQL · TypeScript
-**Frameworks/Tools:** FastAPI · React · Next.js · Streamlit · Git
-**Databases:** MongoDB · MySQL · Supabase
-**Other:** REST APIs · GenAI/LLM integration · Salesforce Platform Development
+## 🛠️ Tech Stack
 
----
+<div align="center">
 
-### 🚀 Featured projects
+**Languages**
 
-**[CertShield](https://github.com/varunboga/ZENCSE010-varunboga)**
-Certificate-verification microservice (FastAPI, MongoDB, React) with a 4-state pipeline — VALID / REVOKED / TAMPERED / NOT FOUND. Credentials are secured with ECDSA P-256 signatures over SHA-256 hashes, with instant QR-based verification via a public API rate-limited to 60 req/min. Built during my internship at ZenV Quantum.
+<img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=34D399"/>
+<img src="https://img.shields.io/badge/Java-0F172A?style=for-the-badge&logo=openjdk&logoColor=34D399"/>
+<img src="https://img.shields.io/badge/C-0F172A?style=for-the-badge&logo=c&logoColor=34D399"/>
+<img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=34D399"/>
+<img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=34D399"/>
 
-**[VolunteerIQ](https://github.com/varunboga/VolunteerIQ)**
-Full-stack AI volunteer-matching platform connecting NGOs with volunteers, using Gemini 1.5 Flash to rank candidates in real time by skill, location, and availability. Includes role-based dashboards, a live Leaflet.js task map, and a reliability score tracking acceptance vs. completion rate. Recognized in Solution Challenge 2026: Build with AI.
+**Frameworks & Tools**
 
-**[AI Recruiter Voice Agent](https://github.com/varunboga/ai-interview-voice-agent)**
-AI-powered voice agent (Vapi, Deepgram, GPT) that conducts real-time interview conversations and dynamically generates questions. Stores conversations/transcripts in Supabase to auto-generate feedback, ratings, and recommendations.
+<img src="https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=34D399"/>
+<img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=34D399"/>
+<img src="https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=34D399"/>
+<img src="https://img.shields.io/badge/Streamlit-0F172A?style=for-the-badge&logo=streamlit&logoColor=34D399"/>
+<img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=34D399"/>
 
-**[NarrativeNexus](https://github.com/varunboga/AI_NarrativeNexus)**
-NLP text-analysis pipeline built during my internship at Infosys Springboard — preprocessing, extractive/abstractive summarization, and a Streamlit dashboard with word clouds, sentiment charts, and topic graphs.
+**Databases**
 
----
+<img src="https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=34D399"/>
+<img src="https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=34D399"/>
+<img src="https://img.shields.io/badge/Supabase-0F172A?style=for-the-badge&logo=supabase&logoColor=34D399"/>
 
-### 📜 Certifications
-- Salesforce Certified Platform Developer I
-- Microsoft Certified: Azure AI Fundamentals
-- Java Foundation Certification
+</div>
 
----
+<br/>
 
-### 📈 GitHub stats
+## 🚀 Featured Projects
 
-![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varunboga&show_icons=true&theme=default)
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🔐 [CertShield](https://github.com/varunboga/CertShield)
+Certificate-verification microservice (FastAPI, MongoDB, React) with a 4-state pipeline — VALID / REVOKED / TAMPERED / NOT FOUND. Secured with ECDSA P-256 signatures over SHA-256 hashes, with instant QR-based verification via a public API rate-limited to 60 req/min.
 
-📩 Open to SDE and AI internship/full-time opportunities — feel free to reach out or connect on [LinkedIn](https://www.linkedin.com/in/varun-boga/).
+`FastAPI` `MongoDB` `React` `Cryptography`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤝 [VolunteerIQ](https://github.com/varunboga/VolunteerIQ)
+Full-stack AI volunteer-matching platform connecting NGOs with volunteers, using Gemini 1.5 Flash to rank candidates by skill, location, and availability. Live task map, role-based dashboards, reliability scoring.
+
+`Gemini 1.5` `Supabase` `Leaflet.js` `TypeScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎙️ [AI Recruiter Voice Agent](https://github.com/varunboga/ai-interview-voice-agent)
+AI-powered voice agent that conducts real-time interview conversations and dynamically generates questions, with automated feedback and ratings.
+
+`Vapi` `Deepgram` `GPT` `Supabase`
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 [NarrativeNexus](https://github.com/varunboga/AI_NarrativeNexus)
+NLP text-analysis pipeline — preprocessing, extractive/abstractive summarization, and a Streamlit dashboard with sentiment and topic visualization.
+
+`Python` `NLP` `Streamlit`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📜 Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Salesforce_Platform_Developer_I-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure_AI_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java_Foundation_Certified-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+
+</div>
+
+<br/>
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=varunboga&show_icons=true&theme=dark&hide_border=true&bg_color=0F172A&title_color=34D399&icon_color=34D399&text_color=F8FAFC" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunboga&layout=compact&theme=dark&hide_border=true&bg_color=0F172A&title_color=34D399&text_color=F8FAFC" width="35%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=varunboga&theme=dark&hide_border=true&background=0F172A&ring=34D399&fire=34D399&currStreakLabel=34D399" width="60%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+📩 Open to **SDE and AI internship/full-time roles** — feel free to reach out or connect on [LinkedIn](https://www.linkedin.com/in/varun-boga/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:34D399,100:0F172A&height=100&section=footer" width="100%"/>
+
+</div>
