@@ -109,19 +109,6 @@ NLP text-analysis pipeline — preprocessing, extractive/abstractive summarizati
 
 <br/>
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=varunboga&show_icons=true&theme=dark&hide_border=true&bg_color=0F172A&title_color=34D399&icon_color=34D399&text_color=F8FAFC" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunboga&layout=compact&theme=dark&hide_border=true&bg_color=0F172A&title_color=34D399&text_color=F8FAFC" width="35%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=varunboga&theme=dark&hide_border=true&background=0F172A&ring=34D399&fire=34D399&currStreakLabel=34D399" width="60%"/>
-
-</div>
-
-<br/>
-
 <div align="center">
 
 📩 Open to **SDE and AI internship/full-time roles** — feel free to reach out or connect on [LinkedIn](https://www.linkedin.com/in/varun-boga/)
